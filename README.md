@@ -4,6 +4,13 @@
 ## Overview
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
 
+
+## Realizado
+## Juan Felipe Lopez Moncada
+## https://parcial-ii-juan-lopez.vercel.app/
+- get: https://parcial-ii-juan-lopez.vercel.app/products
+- getById: https://parcial-ii-juan-lopez.vercel.app/products/1
+
 ## Instrucciones
 - Tienes **1:30 horas** para completar el examen.
 - Escribe **código limpio y bien documentado**.
