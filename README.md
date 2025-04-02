@@ -9,8 +9,9 @@ Este examen evalúa tu capacidad para construir un backend básico usando Expres
 ## Juan Felipe Lopez Moncada
 ## https://parcial-ii-juan-lopez.vercel.app/
 - get: https://parcial-ii-juan-lopez.vercel.app/products
+      ![alt text](image.png)
 - getById: https://parcial-ii-juan-lopez.vercel.app/products/1
-
+      ![alt text](image-1.png)
 ## Instrucciones
 - Tienes **1:30 horas** para completar el examen.
 - Escribe **código limpio y bien documentado**.
