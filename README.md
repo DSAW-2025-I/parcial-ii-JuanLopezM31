@@ -1,8 +1,17 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)
 # Web Development Exam - Backend with Express.js
 
 ## Overview
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
 
+
+## Realizado
+## Juan Felipe Lopez Moncada
+## https://parcial-ii-juan-lopez.vercel.app/
+- get: https://parcial-ii-juan-lopez.vercel.app/products
+      ![alt text](image.png)
+- getById: https://parcial-ii-juan-lopez.vercel.app/products/1
+      ![alt text](image-1.png)
 ## Instrucciones
 - Tienes **1:30 horas** para completar el examen.
 - Escribe **código limpio y bien documentado**.
